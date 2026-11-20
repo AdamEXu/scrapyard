@@ -713,7 +713,7 @@ export default function NoVA() {
 								>
 									PARTNER SPONSORS
 								</Heading>
-							<				/Box>
+							</Box>
 							<div
 								style={{
 									display: 'flex',
